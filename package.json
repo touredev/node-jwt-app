@@ -1,0 +1,17 @@
+{
+  "name": "node-jwt-app",
+  "version": "1.0.0",
+  "description": "Node JWT Authentication sample app",
+  "main": "server.js",
+  "author": "touremjean@hotmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^7.15.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.3"
+  }
+}
